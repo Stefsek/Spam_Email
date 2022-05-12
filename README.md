@@ -2,7 +2,7 @@
 
 ## Spam email detection
 
-## PROJECT DESCRIPTION
+## GOAL DESCRIPTION
 
 - Using natural language processing to detect good or spam emails
 
